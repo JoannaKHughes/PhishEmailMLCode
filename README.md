@@ -11,7 +11,6 @@ Compares machine-learning classifiers for telling phishing emails from legitimat
    - Decision tree
    - k-nearest neighbors (k = 13)
    - Stacking ensemble (decision tree + k-NN, logistic regression as the meta-model)
-   - Voting ensemble
 5. Report accuracy, precision, recall and F1 for each model.
 
 ## Built with
